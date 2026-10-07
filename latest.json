@@ -1,0 +1,7 @@
+{
+  "version": "1.0.4",
+  "androidVersionCode": 5,
+  "apkUrl": "https://github.com/domair600/dumair-mobile/releases/download/v1.0.4/dumair-medical-v1.0.4.apk",
+  "releaseNotes": "تحسينات وإصلاحات على منصة الضمير الطبية.",
+  "mandatory": false
+}
